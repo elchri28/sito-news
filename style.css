@@ -1,0 +1,29 @@
+/* stile.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0a0909;
+    color: #333;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #006699;
+    text-align: center;
+}
+
+p {
+    color: #cfcdcd;
+    max-width: 800px;
+    margin: 10px auto;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #b8b6b6;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+}
